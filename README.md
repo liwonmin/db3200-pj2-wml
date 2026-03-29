@@ -9,3 +9,4 @@ uml diagram url: https://lucid.app/lucidchart/c9bd40e4-83f2-448a-9769-c81f1e9caf
 
 erd url: https://lucid.app/lucidchart/bcc77c0b-a90d-45d7-b746-c14ecd1f02a4/edit?invitationId=inv_ef9d8c28-5e08-403c-91f9-f3bee7038371&page=0_0#
 
+video link: https://youtu.be/wofbLdMKAB0
