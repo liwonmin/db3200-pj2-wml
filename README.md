@@ -5,8 +5,8 @@ For the MongoDB adaptation, the 10 normalized relational tables were restructure
 
 ai-usage: AI tools (Claude) were used to assist with generating mock data, structuring JSON collection examples, and drafting MongoDB queries.
 
-uml diagram url: https://lucid.app/lucidchart/c9bd40e4-83f2-448a-9769-c81f1e9cafdc/edit?invitationId=inv_4d8b1b3d-a69b-47f9-8abd-9f3148d1c77b&page=0_0#
+uml diagram url:[ https://lucid.app/lucidchart/c9bd40e4-83f2-448a-9769-c81f1e9cafdc/edit?invitationId=inv_4d8b1b3d-a69b-47f9-8abd-9f3148d1c77b&page=0_0#](https://lucid.app/lucidchart/c9bd40e4-83f2-448a-9769-c81f1e9cafdc/edit?viewport_loc=409%2C1180%2C3016%2C1800%2C0_0&invitationId=inv_4d8b1b3d-a69b-47f9-8abd-9f3148d1c77b)
 
-erd url: https://lucid.app/lucidchart/bcc77c0b-a90d-45d7-b746-c14ecd1f02a4/edit?invitationId=inv_ef9d8c28-5e08-403c-91f9-f3bee7038371&page=0_0#
+erd url: https://lucid.app/lucidchart/bcc77c0b-a90d-45d7-b746-c14ecd1f02a4/edit?viewport_loc=-280%2C177%2C3291%2C1965%2C0_0&invitationId=inv_ef9d8c28-5e08-403c-91f9-f3bee7038371
 
 video link: https://youtu.be/wofbLdMKAB0
